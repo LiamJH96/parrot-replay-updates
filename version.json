@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0",
+  "version": "1.0",
   "release_date": "2025-10-25",
   "changelog": "Initial public release.",
-  "download_url": "https://github.com/LiamJH96/parrot-replay-updates/releases/download/v1.0.0/ParrotReplaySetup.exe"
+  "download_url": "https://github.com/LiamJH96/ParrotReplay/releases/download/v1.0.0/Parrot.Replay.exe"
 }
