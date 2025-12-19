@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.1",
+  "latest_version": "1.2.2",
   "release_date": "19-12-2025",
-  "changelog": "**Fixed:**\n- Resolved a bug causing the profile switch hotkey to become unresponsive over long sessions",
-  "download_url": "https://github.com/LiamJH96/parrot-replay-updates/releases/download/v1.2.1/Parrot.Replay.exe"
+  "changelog": "**Fixed:**\n- Resolved a bug causing the profile switch hotkey to become unresponsive over long sessions\n- Fixed engine uptime counter refreshing inconsistently",
+  "download_url": "https://github.com/LiamJH96/parrot-replay-updates/releases/download/v1.2.2/Parrot.Replay.exe"
 }
