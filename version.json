@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2",
-  "release_date": "14-12-2025",
-  "changelog": "**Added:**\n- Upload custom audio files from your computer\n- Favourite recordings via hotkey (default #)\n- Switch profiles via hotkey (default ')\n- Reverse clips while applying pitch up or pitch down using a 3-key hotkey combo\n- \"Remove Segment\" button in the trim editor to cut out a selected section and seamlessly join remaining audio\n- Per-clip volume adjustment in the trim editor\n\n**Fixed:**\n- Favourite recordings not counting toward disk usage or total recording count\n- Restored favourites requiring an engine restart before playback",
-  "download_url": "https://github.com/LiamJH96/parrot-replay-updates/releases/download/v1.2.0/Parrot.Replay.exe"
+  "latest_version": "1.2.1",
+  "release_date": "19-12-2025",
+  "changelog": "**Fixed:**\n- Resolved a bug causing the profile switch hotkey to become unresponsive over long sessions",
+  "download_url": "https://github.com/LiamJH96/parrot-replay-updates/releases/download/v1.2.1/Parrot.Replay.exe"
 }
