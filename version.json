@@ -1,8 +1,9 @@
 {
   "latest_version": "1.0.1",
   "release_date": "12-04-2026",
+  "changelog": "Fixed:\n- Resolved bug #1\n- Resolved bug #2\n\nAdded:\n- Added new pitch shifting",
   "changelogs": {
-    "1.0.1": "**Fixed:**\n- Resolved bug #1\n- Resolved bug #2\n\n**Added:**\n- Added new pitch shifting"
+    "1.0.1": "Fixed:\n- Resolved bug #1\n- Resolved bug #2\n\nAdded:\n- Added new pitch shifting"
   },
   "download_url": "https://downloads.parrotreplay.com/Parrot_Replay_Setup_1.0.1.exe"
 }
