@@ -1,6 +1,8 @@
 {
-  "latest_version": "1.0.0",
-  "release_date": "13-04-2026",
-  "changelogs": {},
+  "latest_version": "1.0.1",
+  "release_date": "09-06-2026",
+  "changelogs": {
+    "1.0.1": "**Fixed:**\n- Fixed a scrollbar appearing in the profile dropdown within the custom audio uploader\n\n**Added:**\n- Added the ability to delete all recordings for a profile by right-clicking the profile button\n\n**Changed:**\n- Improved usage data collection for better support and diagnostics"
+  },
   "download_url": ""
 }
