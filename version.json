@@ -4,5 +4,5 @@
   "changelogs": {
     "1.0.1": "**Fixed:**\n- Fixed a scrollbar appearing in the profile dropdown within the custom audio uploader\n\n**Added:**\n- Added the ability to delete all recordings for a profile by right-clicking the profile button\n\n**Changed:**\n- Improved usage data collection for better support and diagnostics"
   },
-  "download_url": ""
+  "download_url": "https://downloads.parrotreplay.com/Parrot_Replay_Setup_1.0.1.exe"
 }
